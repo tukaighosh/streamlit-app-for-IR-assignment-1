@@ -1,0 +1,1 @@
+Information retrieval and natural language processing rely heavily on stemmers, lemmatizers, and spelling correction algorithms to handle imperfect user queries.

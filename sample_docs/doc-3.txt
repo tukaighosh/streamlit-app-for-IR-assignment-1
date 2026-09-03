@@ -1,0 +1,1 @@
+The brown fox saw the quick dog. Searching databases without balanced trees or inverted indices results in slow dictionary lookups and high query latency.
