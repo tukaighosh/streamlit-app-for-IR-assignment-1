@@ -1,1 +1,1 @@
-The quick-brown fox jumps over the lazy dog in the summer afternoon. Fast retrieval systems require optimized index data structures.
+The quick-brown fox jumps over the lazy fox in the summer afternoon. Fast retrieval systems require optimized index data structures. foox.
