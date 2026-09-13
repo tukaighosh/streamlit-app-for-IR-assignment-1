@@ -1,3 +1,0 @@
-streamlit>=1.30
-nltk>=3.8
-pandas>=2.0

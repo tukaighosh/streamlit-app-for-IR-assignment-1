@@ -1,1 +1,1 @@
-The brown fox saw the quick dog. Searching databases without balanced trees or inverted indices results in slow dictionary lookups and high query latency.
+The information retrieval process begins the moment a user submits a query to the front end. Parsing, tokenization, and ranking all happen before any results are shown. Only afterward does the retrieval system apply relevance scoring and return a ranked list of matching documents to the user interface.
